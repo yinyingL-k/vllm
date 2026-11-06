@@ -1,0 +1,22 @@
+vllm/v1/core/kv_cache_utils.py
+  h_79271192c68484 353-356
+  h_79271192c68484 347
+tests/v1/core/test_kv_cache_utils.py
+  h_79271192c68484 730-737,742-743,745-746
+  h_79271192c68484 738-741,744
+tests/v1/core/test_single_type_kv_cache_manager.py
+  h_79271192c68484 81-93
+vllm/v1/core/block_pool.py
+  h_79271192c68484 687,693-694
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5+huawei.3",
+  "base_commit_sha": "45ebbebb3044b7474adc649a8e1a1ed0796da887",
+  "prompts": {},
+  "humans": {
+    "h_79271192c68484": {
+      "author": "l00833181 <liusiyang15@huawei.com>"
+    }
+  }
+}
