@@ -1,0 +1,16 @@
+tests/v1/core/test_kv_cache_utils.py
+  h_79271192c68484 730-743
+vllm/v1/core/kv_cache_utils.py
+  h_79271192c68484 353-354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5+huawei.3",
+  "base_commit_sha": "1d7c59f41b313d2f840b1f12eabc42c00b200d83",
+  "prompts": {},
+  "humans": {
+    "h_79271192c68484": {
+      "author": "l00833181 <liusiyang15@huawei.com>"
+    }
+  }
+}
